@@ -5,6 +5,7 @@ body{
 .highlight{
     text-align:center;
 }
+
 #profile{
     display: grid;
     grid-template-columns: 1fr 3.5fr;
